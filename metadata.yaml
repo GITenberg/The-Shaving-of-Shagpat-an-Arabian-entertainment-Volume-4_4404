@@ -1,5 +1,5 @@
 _repo: The-Shaving-of-Shagpat-an-Arabian-entertainment-Volume-4_4404
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Arab countries -- Fiction'
 - !lcsh 'Fantasy fiction, English'
 - !lcc 'PR'
+- GITenberg
 title: The Shaving of Shagpat; an Arabian entertainment — Volume 4
 url: http://www.gutenberg.org/ebooks/4404
